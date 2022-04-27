@@ -1,1 +1,3 @@
 # MagicBackdoor
+
+Obfuscation is lazy
